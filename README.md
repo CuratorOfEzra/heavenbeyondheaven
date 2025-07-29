@@ -1,11 +1,11 @@
 # heavenbeyondheaven.org is the website that stores the text: *Flailing Skies That Seek Insight From True Light*. It will also store & include supplemental, communicative, and interactive materials to accompany the book.
 
 # This website is accredited to the following contributors:
-# Curator of Ezra - Founder of heavenbeyondheaven.org
-    curator@heavenbeyondheaven.org
-    @curatorofezra - x.com
-# Pate Morgan Ramey - Website design
-    pate@heavenbeyondheaven.org
+    # Curator of Ezra - Founder of heavenbeyondheaven.org
+        curator@heavenbeyondheaven.org
+        @curatorofezra - x.com
+    # Pate Morgan Ramey - Website design
+        pate@heavenbeyondheaven.org
 
 # LICENSES AND COPYRIGHT
   None of the works on the website is copyrighted as of 2025. However, with the freedoms I have vested in the common man, I would greatly appreciate it if you cite any usage of the assets on this website, such as (but not limited to): text, music, video, art, and pictures. 
