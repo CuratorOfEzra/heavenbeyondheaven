@@ -14,7 +14,7 @@ pate@heavenbeyondheaven.org
 
 # LICENSES AND COPYRIGHT
   None of the works on the website is copyrighted through LAW as of 2025. However, with the freedoms I have vested in the common man, I would greatly appreciate it if you attribute your usage of the assets on this website, such as (but not limited to): text, music, video, art, and pictures, to "heavenbeyondheaven.org". 
-  This work is copyrighted through the hands of God and through organizations that are beholden to Him.
+  For the time being, this website is copyrighted through the hands of God and through the organizations that are beholden to Him.
 
 # Short FAQ:
 
